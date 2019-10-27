@@ -1,10 +1,10 @@
 {
-	"name": "wrapper-block-example",
+	"name": "story-of-stuff-section-group",
 	"version": "1.0.0",
-	"description": "Example how to create a wrapper block for Gutenberg in WordPress",
+	"description": "A wrapper block for Gutenberg in WordPress",
 	"scripts": {
-		"start": "parcel watch --no-hmr assets/js/wrapper-block-example.js -d dist",
-		"build": "parcel build assets/js/wrapper-block-example.js -d dist",
+		"start": "parcel watch --no-hmr assets/js/sos-section.js -d dist",
+		"build": "parcel build assets/js/sos-section.js -d dist",
 		"lint": "eslint assets/js"
 	},
 	"author": "Liip AG",
